@@ -75,3 +75,9 @@ print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 
 
 # Results and Output : 
+```
+5 0 1 4 2 3 7 5 3 5 5 7 7 2 3 3 5 3 0 1 
+The Hean arrival rate is 3.550 
+The Variance of arrival from feeder is 4.547
+The Standard deviation of arrival from feeder is 2.132
+```
