@@ -67,7 +67,7 @@ mean=np.inner(x,p)
 EX2=np.inner(np.square(x),p)
 var=EX2-mean**2
 SD=np.sqrt(var)
-print("The Hean arrival rate is %.3f "%mean)
+print("The Mean arrival rate is %.3f "%mean)
 print ("The Variance of arrival from feeder is %.3f"%var)
 print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 ```
@@ -77,7 +77,7 @@ print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 # Results and Output : 
 ```
 5 0 1 4 2 3 7 5 3 5 5 7 7 2 3 3 5 3 0 1 
-The Hean arrival rate is 3.550 
+The Mean arrival rate is 3.550 
 The Variance of arrival from feeder is 4.547
 The Standard deviation of arrival from feeder is 2.132
 ```
